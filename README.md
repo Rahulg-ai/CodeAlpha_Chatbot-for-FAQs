@@ -63,9 +63,8 @@ python Chatbot_codealpha.py
 
 ## 📸 Screenshot
 
-(Add your screenshot here)
-Example:
-![Chatbot GUI](screenshot.png)
+(<img width="683" height="782" alt="image" src="https://github.com/user-attachments/assets/cd819453-825e-45e4-8b97-46ca0e372f57" />
+)
 
 ---
 
